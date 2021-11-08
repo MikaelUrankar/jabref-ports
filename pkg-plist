@@ -1,0 +1,299 @@
+bin/jabref
+share/applications/jabref.desktop
+%%DATADIR%%/jabref-icon48x48.png
+%%DATADIR%%/lib/FastInfoset-1.2.16.jar
+%%DATADIR%%/lib/JabRef-100.0.0.jar
+%%DATADIR%%/lib/JavaEWAH-1.1.7.jar
+%%DATADIR%%/lib/afterburner.fx.jar
+%%DATADIR%%/lib/annotations-15.0.jar
+%%DATADIR%%/lib/antlr-runtime-3.5.2.jar
+%%DATADIR%%/lib/antlr4-runtime-4.9.2.jar
+%%DATADIR%%/lib/applicationinsights-core-2.4.1.jar
+%%DATADIR%%/lib/applicationinsights-logging-log4j2-2.4.1.jar
+%%DATADIR%%/lib/bcprov-jdk15on-1.69.jar
+%%DATADIR%%/lib/checker-qual-3.8.0.jar
+%%DATADIR%%/lib/citeproc-java-3.0.0-alpha.1.jar
+%%DATADIR%%/lib/commons-cli-1.4.jar
+%%DATADIR%%/lib/commons-codec-1.11.jar
+%%DATADIR%%/lib/commons-csv-1.8.jar
+%%DATADIR%%/lib/commons-lang3-3.9.jar
+%%DATADIR%%/lib/commons-logging-1.2.jar
+%%DATADIR%%/lib/commons-text-1.8.jar
+%%DATADIR%%/lib/controlsfx-11.1.0.jar
+%%DATADIR%%/lib/doc-annotations-0.2.jar
+%%DATADIR%%/lib/easybind-2.2.jar
+%%DATADIR%%/lib/error_prone_annotations-2.5.1.jar
+%%DATADIR%%/lib/failureaccess-1.0.1.jar
+%%DATADIR%%/lib/fastparse-1.0.0.jar
+%%DATADIR%%/lib/fastparse-utils-1.0.0.jar
+%%DATADIR%%/lib/flexmark-0.62.2.jar
+%%DATADIR%%/lib/flexmark-ext-gfm-strikethrough-0.62.2.jar
+%%DATADIR%%/lib/flexmark-ext-gfm-tasklist-0.62.2.jar
+%%DATADIR%%/lib/flexmark-util-0.62.2.jar
+%%DATADIR%%/lib/flexmark-util-ast-0.62.2.jar
+%%DATADIR%%/lib/flexmark-util-builder-0.62.2.jar
+%%DATADIR%%/lib/flexmark-util-collection-0.62.2.jar
+%%DATADIR%%/lib/flexmark-util-data-0.62.2.jar
+%%DATADIR%%/lib/flexmark-util-dependency-0.62.2.jar
+%%DATADIR%%/lib/flexmark-util-format-0.62.2.jar
+%%DATADIR%%/lib/flexmark-util-html-0.62.2.jar
+%%DATADIR%%/lib/flexmark-util-misc-0.62.2.jar
+%%DATADIR%%/lib/flexmark-util-options-0.62.2.jar
+%%DATADIR%%/lib/flexmark-util-sequence-0.62.2.jar
+%%DATADIR%%/lib/flexmark-util-visitor-0.62.2.jar
+%%DATADIR%%/lib/flowless-0.6.3.jar
+%%DATADIR%%/lib/fontbox-2.0.24.jar
+%%DATADIR%%/lib/gson-2.8.6.jar
+%%DATADIR%%/lib/guava-30.1.1-jre.jar
+%%DATADIR%%/lib/h2-mvstore-1.4.200.jar
+%%DATADIR%%/lib/httpasyncclient-4.1.4.jar
+%%DATADIR%%/lib/httpclient-4.5.13.jar
+%%DATADIR%%/lib/httpcore-4.4.13.jar
+%%DATADIR%%/lib/httpcore-nio-4.4.13.jar
+%%DATADIR%%/lib/httpmime-4.5.13.jar
+%%DATADIR%%/lib/ikonli-core-12.2.0.jar
+%%DATADIR%%/lib/ikonli-javafx-12.2.0.jar
+%%DATADIR%%/lib/ikonli-materialdesign2-pack-12.2.0.jar
+%%DATADIR%%/lib/istack-commons-runtime-3.0.8.jar
+%%DATADIR%%/lib/j2objc-annotations-1.3.jar
+%%DATADIR%%/lib/jackson-annotations-2.12.3.jar
+%%DATADIR%%/lib/jackson-core-2.12.3.jar
+%%DATADIR%%/lib/jackson-databind-2.12.3.jar
+%%DATADIR%%/lib/jackson-dataformat-yaml-2.12.3.jar
+%%DATADIR%%/lib/jackson-datatype-jsr310-2.12.3.jar
+%%DATADIR%%/lib/jakarta.activation-api-1.2.1.jar
+%%DATADIR%%/lib/jakarta.annotation-api-1.3.5.jar
+%%DATADIR%%/lib/jakarta.inject-2.6.1.jar
+%%DATADIR%%/lib/jakarta.xml.bind-api-2.3.2.jar
+%%DATADIR%%/lib/java-diff-utils-4.10.jar
+%%DATADIR%%/lib/java-string-similarity-2.0.0.jar
+%%DATADIR%%/lib/javafx.base.jar
+%%DATADIR%%/lib/javafx.controls.jar
+%%DATADIR%%/lib/javafx.fxml.jar
+%%DATADIR%%/lib/javafx.graphics.jar
+%%DATADIR%%/lib/javafx.media.jar
+%%DATADIR%%/lib/javafx.swing.jar
+%%DATADIR%%/lib/javafx.web.jar
+%%DATADIR%%/lib/jaxb-runtime-2.3.2.jar
+%%DATADIR%%/lib/jbibtex-1.0.17.jar
+%%DATADIR%%/lib/jcip-annotations-1.0.jar
+%%DATADIR%%/lib/jfoenix-9.0.10.jar
+%%DATADIR%%/lib/jsoup-1.13.1.jar
+%%DATADIR%%/lib/latex2unicode_2.12-0.2.6.jar
+%%DATADIR%%/lib/libreoffice-7.1.4.jar
+%%DATADIR%%/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar
+%%DATADIR%%/lib/log4j-api-3.0.0-SNAPSHOT.jar
+%%DATADIR%%/lib/log4j-core-3.0.0-SNAPSHOT.jar
+%%DATADIR%%/lib/log4j-jcl-3.0.0-SNAPSHOT.jar
+%%DATADIR%%/lib/log4j-plugins-3.0.0-SNAPSHOT.jar
+%%DATADIR%%/lib/log4j-slf4j18-impl-3.0.0-SNAPSHOT.jar
+%%DATADIR%%/lib/lucene-core-8.9.0.jar
+%%DATADIR%%/lib/lucene-queries-8.9.0.jar
+%%DATADIR%%/lib/lucene-queryparser-8.9.0.jar
+%%DATADIR%%/lib/mariadb-java-client-2.7.3.jar
+%%DATADIR%%/lib/mvvmfx-1.8.0.jar
+%%DATADIR%%/lib/mvvmfx-validation-1.9.0-SNAPSHOT.jar
+%%DATADIR%%/lib/ojdbc10-19.3.0.0.jar
+%%DATADIR%%/lib/ons-19.3.0.0.jar
+%%DATADIR%%/lib/org.eclipse.jgit-5.12.0.202106070339-r.jar
+%%DATADIR%%/lib/osdt_cert-19.3.0.0.jar
+%%DATADIR%%/lib/osdt_core-19.3.0.0.jar
+%%DATADIR%%/lib/pdfbox-2.0.24.jar
+%%DATADIR%%/lib/postgresql-42.2.22.jar
+%%DATADIR%%/lib/reactfx-2.0-M5.jar
+%%DATADIR%%/lib/richtextfx-0.10.6.jar
+%%DATADIR%%/lib/scala-library-2.12.8.jar
+%%DATADIR%%/lib/simplefan-19.3.0.0.jar
+%%DATADIR%%/lib/slf4j-api-2.0.0-alpha2.jar
+%%DATADIR%%/lib/snakeyaml-1.27.jar
+%%DATADIR%%/lib/sourcecode-0.1.4.jar
+%%DATADIR%%/lib/stax-ex-1.8.1.jar
+%%DATADIR%%/lib/tika-core-1.26.jar
+%%DATADIR%%/lib/txw2-2.3.2.jar
+%%DATADIR%%/lib/typetools-0.6.1.jar
+%%DATADIR%%/lib/ucp-19.3.0.0.jar
+%%DATADIR%%/lib/undofx-2.1.0.jar
+%%DATADIR%%/lib/unirest-java-3.11.11.jar
+%%DATADIR%%/lib/unoloader-7.1.4.jar
+%%DATADIR%%/lib/wellbehavedfx-0.3.3.jar
+%%DATADIR%%/lib/xmpbox-2.0.24.jar
+%%DATADIR%%/resources/main/org/jabref/gui/Base.css
+%%DATADIR%%/resources/main/org/jabref/gui/Dark.css
+%%DATADIR%%/resources/main/org/jabref/gui/EntryType.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/auximport/FromAuxDialog.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/bibtexextractor/ExtractBibtexDialog.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/cleanup/CleanupPresetPanel.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/commonfxcontrols/CitationKeyPatternPanel.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/commonfxcontrols/FieldFormatterCleanupsPanel.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/commonfxcontrols/SaveOrderConfigPanel.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/contentselector/ContentSelectorDialog.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/copyfiles/CopyFilesDialog.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/customentrytypes/CustomizeEntryTypeDialog.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/documentviewer/DocumentViewer.css
+%%DATADIR%%/resources/main/org/jabref/gui/documentviewer/DocumentViewer.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/edit/ManageKeywordsDialog.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/edit/ReplaceString.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/entryeditor/EntryEditor.css
+%%DATADIR%%/resources/main/org/jabref/gui/entryeditor/EntryEditor.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/entryeditor/fileannotationtab/FileAnnotationTab.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/errorconsole/ErrorConsole.css
+%%DATADIR%%/resources/main/org/jabref/gui/errorconsole/ErrorConsole.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/exporter/CreateModifyExporterDialog.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/externalfiles/UnlinkedFilesDialog.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/externalfiletype/CustomizeExternalFileTypesDialog.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/externalfiletype/EditExternalFileTypeEntryDialog.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/fieldeditors/CitationKeyEditor.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/fieldeditors/DateEditor.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/fieldeditors/IdentifierEditor.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/fieldeditors/JournalEditor.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/fieldeditors/LinkedEntriesEditor.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/fieldeditors/LinkedFilesEditor.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/fieldeditors/OptionEditor.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/fieldeditors/OwnerEditor.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/fieldeditors/UrlEditor.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/groups/GroupDialog.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/groups/GroupTree.css
+%%DATADIR%%/resources/main/org/jabref/gui/groups/GroupTree.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/help/AboutDialog.css
+%%DATADIR%%/resources/main/org/jabref/gui/help/AboutDialog.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/importer/ImportCustomEntryTypesDialog.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/importer/ImportEntriesDialog.css
+%%DATADIR%%/resources/main/org/jabref/gui/importer/ImportEntriesDialog.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/integrity/IntegrityCheckDialog.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/libraryproperties/LibraryPropertiesDialog.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/linkedfile/LinkedFileEditDialog.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/maintable/MainTable.css
+%%DATADIR%%/resources/main/org/jabref/gui/mergeentries/MergeEntries.css
+%%DATADIR%%/resources/main/org/jabref/gui/metadata/BibtexStringEditorDialog.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/openoffice/AdvancedCiteDialog.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/openoffice/ManageCitationsDialog.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/openoffice/StyleSelectDialog.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/preferences/PreferencesDialog.css
+%%DATADIR%%/resources/main/org/jabref/gui/preferences/PreferencesDialog.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/preferences/PreferencesFilterDialog.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/preferences/appearance/AppearanceTab.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/preferences/citationkeypattern/CitationKeyPatternTab.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/preferences/customization/CustomizationTab.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/preferences/entryeditor/EntryEditorTab.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/preferences/entryeditortabs/CustomEditorFieldsTab.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/preferences/exporter/ExportCustomizationTab.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/preferences/external/ExternalTab.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/preferences/file/FileTab.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/preferences/general/GeneralTab.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/preferences/groups/GroupsTab.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/preferences/importer/ImportCustomizationTab.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/preferences/importer/ImportSettingsTab.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/preferences/journals/JournalAbbreviationsTab.css
+%%DATADIR%%/resources/main/org/jabref/gui/preferences/journals/JournalAbbreviationsTab.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/preferences/keybindings/KeyBindingsTab.css
+%%DATADIR%%/resources/main/org/jabref/gui/preferences/keybindings/KeyBindingsTab.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/preferences/linkedfiles/LinkedFilesTab.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/preferences/nameformatter/NameFormatterTab.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/preferences/network/NetworkTab.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/preferences/preview/PreviewTab.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/preferences/protectedterms/ProtectedTermsTab.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/preferences/table/TableTab.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/preferences/xmp/XmpPrivacyTab.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/shared/SharedDatabaseLoginDialog.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/slr/ManageStudyDefinition.css
+%%DATADIR%%/resources/main/org/jabref/gui/slr/ManageStudyDefinition.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/texparser/ParseLatexDialog.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/texparser/ParseLatexResult.css
+%%DATADIR%%/resources/main/org/jabref/gui/texparser/ParseLatexResult.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/util/component/Tag.fxml
+%%DATADIR%%/resources/main/org/jabref/gui/util/component/TagBar.css
+%%DATADIR%%/resources/main/org/jabref/gui/util/component/TagBar.fxml
+%%DATADIR%%/resources/main/org/jabref/logic/git/git.gitignore
+%%DATADIR%%/resources/main/org/jabref/styletester/StyleTester.fxml
+@dir %%DATADIR%%/resources/main/org/jabref/architecture
+@dir %%DATADIR%%/resources/main/org/jabref/cli
+@dir %%DATADIR%%/resources/main/org/jabref/gui/actions
+@dir %%DATADIR%%/resources/main/org/jabref/gui/autocompleter
+@dir %%DATADIR%%/resources/main/org/jabref/gui/citationkeypattern
+@dir %%DATADIR%%/resources/main/org/jabref/gui/collab
+@dir %%DATADIR%%/resources/main/org/jabref/gui/desktop/os
+@dir %%DATADIR%%/resources/main/org/jabref/gui/dialogs
+@dir %%DATADIR%%/resources/main/org/jabref/gui/duplicationFinder
+@dir %%DATADIR%%/resources/main/org/jabref/gui/fieldeditors/contextmenu
+@dir %%DATADIR%%/resources/main/org/jabref/gui/icon
+@dir %%DATADIR%%/resources/main/org/jabref/gui/importer/actions
+@dir %%DATADIR%%/resources/main/org/jabref/gui/importer/fetcher
+@dir %%DATADIR%%/resources/main/org/jabref/gui/journals
+@dir %%DATADIR%%/resources/main/org/jabref/gui/keyboard
+@dir %%DATADIR%%/resources/main/org/jabref/gui/logging
+@dir %%DATADIR%%/resources/main/org/jabref/gui/maintable/columns
+@dir %%DATADIR%%/resources/main/org/jabref/gui/menus
+@dir %%DATADIR%%/resources/main/org/jabref/gui/preferences/keybindings/presets
+@dir %%DATADIR%%/resources/main/org/jabref/gui/preview
+@dir %%DATADIR%%/resources/main/org/jabref/gui/push
+@dir %%DATADIR%%/resources/main/org/jabref/gui/remote
+@dir %%DATADIR%%/resources/main/org/jabref/gui/search/rules/describer
+@dir %%DATADIR%%/resources/main/org/jabref/gui/specialfields
+@dir %%DATADIR%%/resources/main/org/jabref/gui/undo
+@dir %%DATADIR%%/resources/main/org/jabref/gui/util/comparator
+@dir %%DATADIR%%/resources/main/org/jabref/gui/util/uithreadaware
+@dir %%DATADIR%%/resources/main/org/jabref/logic/autosaveandbackup
+@dir %%DATADIR%%/resources/main/org/jabref/logic/auxparser
+@dir %%DATADIR%%/resources/main/org/jabref/logic/bibtex/comparator
+@dir %%DATADIR%%/resources/main/org/jabref/logic/bst
+@dir %%DATADIR%%/resources/main/org/jabref/logic/citationkeypattern
+@dir %%DATADIR%%/resources/main/org/jabref/logic/citationstyle
+@dir %%DATADIR%%/resources/main/org/jabref/logic/cleanup
+@dir %%DATADIR%%/resources/main/org/jabref/logic/crawler
+@dir %%DATADIR%%/resources/main/org/jabref/logic/database
+@dir %%DATADIR%%/resources/main/org/jabref/logic/exporter
+@dir %%DATADIR%%/resources/main/org/jabref/logic/externalfiles
+@dir %%DATADIR%%/resources/main/org/jabref/logic/formatter/bibtexfields
+@dir %%DATADIR%%/resources/main/org/jabref/logic/formatter/casechanger
+@dir %%DATADIR%%/resources/main/org/jabref/logic/formatter/minifier
+@dir %%DATADIR%%/resources/main/org/jabref/logic/groups
+@dir %%DATADIR%%/resources/main/org/jabref/logic/help
+@dir %%DATADIR%%/resources/main/org/jabref/logic/importer/fetcher/transformers
+@dir %%DATADIR%%/resources/main/org/jabref/logic/importer/fileformat/mods
+@dir %%DATADIR%%/resources/main/org/jabref/logic/importer/importsettings
+@dir %%DATADIR%%/resources/main/org/jabref/logic/importer/util
+@dir %%DATADIR%%/resources/main/org/jabref/logic/integrity
+@dir %%DATADIR%%/resources/main/org/jabref/logic/journals
+@dir %%DATADIR%%/resources/main/org/jabref/logic/l10n
+@dir %%DATADIR%%/resources/main/org/jabref/logic/layout/format
+@dir %%DATADIR%%/resources/main/org/jabref/logic/logging
+@dir %%DATADIR%%/resources/main/org/jabref/logic/msbib
+@dir %%DATADIR%%/resources/main/org/jabref/logic/net
+@dir %%DATADIR%%/resources/main/org/jabref/logic/openoffice/style
+@dir %%DATADIR%%/resources/main/org/jabref/logic/pdf
+@dir %%DATADIR%%/resources/main/org/jabref/logic/preferences
+@dir %%DATADIR%%/resources/main/org/jabref/logic/preview
+@dir %%DATADIR%%/resources/main/org/jabref/logic/protectedterms
+@dir %%DATADIR%%/resources/main/org/jabref/logic/remote/client
+@dir %%DATADIR%%/resources/main/org/jabref/logic/remote/server
+@dir %%DATADIR%%/resources/main/org/jabref/logic/remote/shared
+@dir %%DATADIR%%/resources/main/org/jabref/logic/search
+@dir %%DATADIR%%/resources/main/org/jabref/logic/shared/event
+@dir %%DATADIR%%/resources/main/org/jabref/logic/shared/exception
+@dir %%DATADIR%%/resources/main/org/jabref/logic/shared/listener
+@dir %%DATADIR%%/resources/main/org/jabref/logic/shared/prefs
+@dir %%DATADIR%%/resources/main/org/jabref/logic/shared/security
+@dir %%DATADIR%%/resources/main/org/jabref/logic/texparser
+@dir %%DATADIR%%/resources/main/org/jabref/logic/undo
+@dir %%DATADIR%%/resources/main/org/jabref/logic/util/io
+@dir %%DATADIR%%/resources/main/org/jabref/logic/util/strings
+@dir %%DATADIR%%/resources/main/org/jabref/logic/xmp
+@dir %%DATADIR%%/resources/main/org/jabref/migrations
+@dir %%DATADIR%%/resources/main/org/jabref/model/database/event
+@dir %%DATADIR%%/resources/main/org/jabref/model/entry/event
+@dir %%DATADIR%%/resources/main/org/jabref/model/entry/field
+@dir %%DATADIR%%/resources/main/org/jabref/model/entry/identifier
+@dir %%DATADIR%%/resources/main/org/jabref/model/entry/types
+@dir %%DATADIR%%/resources/main/org/jabref/model/groups/event
+@dir %%DATADIR%%/resources/main/org/jabref/model/metadata/event
+@dir %%DATADIR%%/resources/main/org/jabref/model/openoffice/uno
+@dir %%DATADIR%%/resources/main/org/jabref/model/openoffice/util
+@dir %%DATADIR%%/resources/main/org/jabref/model/paging
+@dir %%DATADIR%%/resources/main/org/jabref/model/pdf
+@dir %%DATADIR%%/resources/main/org/jabref/model/search/matchers
+@dir %%DATADIR%%/resources/main/org/jabref/model/search/rules
+@dir %%DATADIR%%/resources/main/org/jabref/model/strings
+@dir %%DATADIR%%/resources/main/org/jabref/model/study
+@dir %%DATADIR%%/resources/main/org/jabref/model/texparser
+@dir %%DATADIR%%/resources/main/org/jabref/model/util
+@dir %%DATADIR%%/resources/main/org/jabref/preferences

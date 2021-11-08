@@ -1,0 +1,26 @@
+#!/bin/sh
+JAVA_VERSION="%%JAVA_VERSION%%" \
+exec java \
+--add-exports javafx.controls/com.sun.javafx.scene.control=org.controlsfx.controls \
+--add-exports org.controlsfx.controls/impl.org.controlsfx.skin=org.jabref \
+--add-exports javafx.controls/com.sun.javafx.scene.control.behavior=org.controlsfx.controls \
+--add-exports javafx.graphics/com.sun.javafx.scene=org.controlsfx.controls \
+--add-exports javafx.graphics/com.sun.javafx.scene.traversal=org.controlsfx.controls \
+--add-exports javafx.graphics/com.sun.javafx.css=org.controlsfx.controls \
+--add-exports javafx.controls/com.sun.javafx.scene.control.inputmap=org.controlsfx.controls \
+--add-exports javafx.base/com.sun.javafx.event=org.controlsfx.controls \
+--add-exports javafx.base/com.sun.javafx.collections=org.controlsfx.controls \
+--add-exports javafx.base/com.sun.javafx.runtime=org.controlsfx.controls \
+--add-exports javafx.web/com.sun.webkit=org.controlsfx.controls \
+--add-opens javafx.controls/javafx.scene.control=org.jabref \
+--add-opens org.controlsfx.controls/org.controlsfx.control.textfield=org.jabref \
+--add-opens javafx.controls/com.sun.javafx.scene.control=org.jabref \
+--add-opens javafx.controls/javafx.scene.control.skin=org.controlsfx.controls \
+--add-opens javafx.graphics/javafx.scene=org.controlsfx.controls \
+--add-opens javafx.controls/com.sun.javafx.scene.control.behavior=com.jfoenix \
+--add-opens javafx.base/com.sun.javafx.binding=com.jfoenix \
+--add-opens javafx.graphics/com.sun.javafx.stage=com.jfoenix \
+--add-opens javafx.base/com.sun.javafx.event=com.jfoenix \
+--patch-module org.jabref=%%DATADIR%%/resources/main \
+--module-path %%PREFIX%%/openjfx14/lib:%%DATADIR%%/lib \
+--module org.jabref/org.jabref.gui.JabRefLauncher

@@ -1,0 +1,43 @@
+--- build.gradle.orig	2021-07-05 17:30:10 UTC
++++ build.gradle
+@@ -18,7 +18,7 @@ plugins {
+ 
+     id 'org.javamodularity.moduleplugin' version '1.8.7'
+ 
+-    id 'org.openjfx.javafxplugin' version '0.0.10'
++    //id 'org.openjfx.javafxplugin' version '0.0.10'
+ 
+     id 'org.beryx.jlink' version '2.24.0'
+ 
+@@ -107,10 +107,10 @@ configurations {
+     }
+ }
+ 
+-javafx {
+-    version = "16"
+-    modules = [ 'javafx.controls', 'javafx.fxml', 'javafx.web', 'javafx.swing' ]
+-}
++//javafx {
++//    version = "16"
++//    modules = [ 'javafx.controls', 'javafx.fxml', 'javafx.web', 'javafx.swing' ]
++//}
+ 
+ dependencies {
+     // Include all jar-files in the 'lib' folder as dependencies
+@@ -168,6 +168,7 @@ dependencies {
+     implementation group: 'jakarta.annotation', name: 'jakarta.annotation-api', version: '1.3.5'
+ 
+     // JavaFX stuff
++    implementation files('LOCALBASE/openjfx14/lib/javafx.base.jar', 'LOCALBASE/openjfx14/lib/javafx.controls.jar', 'LOCALBASE/openjfx14/lib/javafx.graphics.jar', 'LOCALBASE/openjfx14/lib/javafx.swing.jar', 'LOCALBASE/openjfx14/lib/javafx.fxml.jar', 'LOCALBASE/openjfx14/lib/javafx.web.jar', 'LOCALBASE/openjfx14/lib/javafx.media.jar')
+     implementation 'org.kordamp.ikonli:ikonli-javafx:12.2.0'
+     implementation 'org.kordamp.ikonli:ikonli-materialdesign2-pack:12.2.0'
+     implementation 'de.saxsys:mvvmfx-validation:1.9.0-SNAPSHOT'
+@@ -390,7 +391,7 @@ tasks.withType(JavaCompile) {
+ }
+ 
+ compileJava {
+-    options.compilerArgs << "-Xlint:none"
++    options.compilerArgs << "-Xlint:none" << "--module-path=LOCALBASE/openjdk14/jmods"
+     dependsOn "generateSource"
+ 
+     options.annotationProcessorGeneratedSourcesDirectory = file("src-gen/main/java")
